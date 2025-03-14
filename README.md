@@ -18,7 +18,7 @@ It helps improve transparency, sales efficiency, and strategic planning by ident
 5. No of meeting By Account Exe
 6- Top Open Opportunity
 
-- Dashboard interaction <a href="https://github.com/veenadhari-DA/Data-Analysis-Dashboard/blob/main/Screenshot%20.png">view Dashboard</a>
+- Dashboard interaction <a href="https://github.com/veenadhari-DA/Data-Analysis-Dashboard/blob/main/Screenshot.png">view Dashboard</a>
 
 ## Process
 .Verify data for any missing values and anomalies, and sort out the same.
@@ -28,7 +28,8 @@ It helps improve transparency, sales efficiency, and strategic planning by ident
 
 ## Dashboard
 
-![Screenshot ](https://github.com/user-attachments/assets/cd5545b4-2a15-43ee-859b-26e177ac9694)
+![Screenshot](https://github.com/user-attachments/assets/8b5dd8c5-35e7-4ffd-be36-441584011c75)
+
 
 ## Project insights
 1.	Sales Trends – Tracked new, renewal, and cross-sell performance.
