@@ -30,4 +30,21 @@ It helps improve transparency, sales efficiency, and strategic planning by ident
 
 ![Screenshot ](https://github.com/user-attachments/assets/cd5545b4-2a15-43ee-859b-26e177ac9694)
 
+## Project insights
+1.	Sales Trends – Tracked new, renewal, and cross-sell performance.
+2.	Target vs. Achievement – Identified gaps in sales goals.
+3.	Opportunity Tracking – Monitored open deals and conversions.
+4.	Top Performers – Ranked branches and executives.
+5.	Revenue Insights – Analyzed premium collection and invoicing.
+6.	Sales Funnel Optimization – Identified process bottlenecks.
+7.	Meeting Impact – Correlated client meetings with sales success.
+8.	Data-Driven Decisions – Provided insights for strategic growth.
+
+## Final conclusion
+
+The Branch Performance Dashboard provides a comprehensive, data-driven approach to tracking sales performance, revenue trends, and opportunity conversions. By leveraging Power BI, Tableau, SQL, and Excel, this project enhances transparency, efficiency, and decision-making at both corporate and branch levels.
+Improved sales strategy, target achievement, and business growth through actionable insights and real-time monitoring.
+
+
+
 
