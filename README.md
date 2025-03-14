@@ -1,2 +1,5 @@
-# Data-Analysis-Dashboard
-I developed a comprehensive project in Excel, creating multiple dashboards and tables to analyze the data. This process involved several stages, including data processing, data cleaning and data visualization.
+# Insurance Data Analysis(interactive  Dashboard creation)
+# project objective
+To develop an interactive Branch Performance Dashboard for tracking new, renewal, and cross-sell business. The dashboard provides data-driven insights on sales targets, achievements, invoice counts, meetings, and conversion rates to support corporate and branch-level decision-making.
+It helps improve transparency, sales efficiency, and strategic planning by identifying top performers and tracking open opportunities
+
